@@ -106,7 +106,7 @@ const player = (stateOfPlay, winnerTakesLast) => {
 
 The "Dr Nim" `player` will automatically adapt the way it plays, so that it will continue to follow a winning strategy.
 
-**Can you modify your `player.js` script so that it can win either game agains Dr Nim, at least half the time?**
+**Can you modify your `player.js` script so that it can win either game against Dr Nim, at least half the time?**
 
 ---
 ## Challenging Others
