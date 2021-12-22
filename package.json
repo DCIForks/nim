@@ -1,0 +1,23 @@
+{
+  "name": "nim",
+  "version": "1.0.0",
+  "description": "Your challenge is to create a JavaScript function that can play and beat functions created by other developers. In the case of a tie, the function that runs the fastest on average will win.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DCIForks/nim.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DCIForks/nim/issues"
+  },
+  "homepage": "https://github.com/DCIForks/nim#readme",
+  "dependencies": {
+    "jest": "^27.4.5"
+  }
+}
